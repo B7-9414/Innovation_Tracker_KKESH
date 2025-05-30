@@ -19,10 +19,10 @@ const Header = ({ onSubmitIdea }) => {
           Submit Idea
         </button>
         <a
-        href="https://chat-bassam-ai-assistant.streamlit.app/"
+        href="https://innovation-assistant-kkesh.streamlit.app/"
         target="_blank"
         className='bg-indigo-700 hover:bg-indigo-900 text-white   px-4 py-2 rounded-lg transition-colors duration-200 font-medium flex items-center cursor-pointer'>
-          Chat with Ai 🤖
+          Innovation Assistant 🤖
         </a>
       </div>
 
